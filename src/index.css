@@ -2,6 +2,9 @@
     --background-banner: #6278f7;
     --branco: #fff;
     --background-formulario: #f2f2f2;
+    --azul-botao: #6278f7;
+    --azul-botao-hover: #1232e6;
+    --cor-texto-botao-hover: #95ffd4;
     --sombra: 1rem 1rem 3rem rgba(0, 0, 0, 0.06);
     font-size: 62.5%;
 }
