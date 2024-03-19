@@ -1,0 +1,16 @@
+.campo-texto {
+    margin: 2.4rem 0;
+}
+.campo-texto label {
+    display: block;
+    text-transform: capitalize;
+    margin-bottom: 0.8rem;
+}
+.campo-texto input {
+    background-color: var(--branco);
+    box-shadow: var(--sombra);
+    width: 100%;
+    border: none;
+    font-size: 2.4rem;
+    padding: 2.4rem;
+}
