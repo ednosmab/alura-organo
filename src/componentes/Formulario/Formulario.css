@@ -1,0 +1,22 @@
+.formulario {
+    display: flex;
+    justify-content: center;
+    margin: 8rem 0;
+}
+
+.formulario fieldset {
+    border: none;
+}
+
+.formulario form {
+    max-width: 80%;
+    background-color: var(--background-formulario);
+    border-radius: 2rem;
+    padding: 3.6rem 6.4rem;
+    box-shadow: 0.8rem 0.8rem 1.6rem rgba(0, 0, 0, 0.08);
+}
+
+.formulario legend {
+    font-size: 3.2rem;
+    margin-bottom: 2.5rem;
+}

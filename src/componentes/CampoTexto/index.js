@@ -10,8 +10,6 @@ const CampoTexto = (props) => {
                 placeholder={props.placeholder}
             />
         </div>
-        // <fieldset className="campo-texto">
-        // </fieldset>
     );
 };
 
