@@ -2,7 +2,7 @@ import "./CampoTexto.css";
 const CampoTexto = (props) => {
     return (
         <div className="campo-texto">
-            <label for={props.label}>{props.label}</label>
+            <label htmlFor={props.label}>{props.label}</label>
             <input
                 type="text"
                 id={props.label}
