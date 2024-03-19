@@ -2,14 +2,14 @@ import "./ListaSuspensa.css";
 
 const ListaSuspensa = (props) => {
     return (
-        <>
-            <label htmlFor="lista-suspensa">{props.label}</label>
-            <select id="lista-suspensa">
+        <div className="lista-suspensa">
+            <label htmlFor={props.label}>{props.label}</label>
+            <select id={props.label}>
                 {props.itens.map((item) => (
-                    <option>{item}</option>
+                    <option key={item}>{item}</option>
                 ))}
             </select>
-        </>
+        </div>
     );
 };
 

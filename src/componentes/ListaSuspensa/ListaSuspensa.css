@@ -1,0 +1,11 @@
+.lista-suspensa {
+}
+
+.lista-suspensa select {
+    background-color: var(--branco);
+    box-shadow: var(--sombra);
+    width: 100%;
+    border: none;
+    font-size: 2.4rem;
+    padding: 2.4rem;
+}
