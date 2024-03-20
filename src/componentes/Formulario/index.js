@@ -14,7 +14,7 @@ const times = [
     "Inovação e Gestão",
 ];
 
-const Formuario = () => {
+const Formuario = (props) => {
     const [nome, setNome] = useState("");
     const [cargo, setCargo] = useState("");
     const [imagem, setImagem] = useState("");
@@ -22,7 +22,12 @@ const Formuario = () => {
 
     const aoSalvar = (event) => {
         event.preventDefault();
-        console.log("Submetido=> ", nome, cargo, imagem, time);
+        props.aoColaboradorCadastrado({
+            nome,
+            cargo,
+            imagem,
+            time,
+        });
     };
 
     return (
