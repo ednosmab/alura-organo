@@ -1,3 +1,10 @@
+![image](https://github.com/ednosmab/alura-organo/assets/37445442/eff9f84b-04f7-4157-8dc7-32bcb222554d)
+
+<h1 align="center">Organo </h1>
+<p align="center">📚 Projeto desenvolvido no curso HTML e CSS: Praticando HTML/CSS da Alura 📚</p>
+
+# 🏗️ Em construção 🏗️
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
