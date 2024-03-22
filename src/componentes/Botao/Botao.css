@@ -8,6 +8,8 @@
     cursor: pointer;
     color: var(--branco);
     margin-top: 4rem;
+    text-shadow: -1px -1px 0 #2e2e2e, 1px -1px 0 #2e2e2e, -1px 1px 0 #2e2e2e,
+        1px 1px 0 #2e2e2e;
 }
 
 .botao:hover {

@@ -29,7 +29,7 @@ const Rodape = () => {
                     </li>
                 </ul>
                 <div className="logo">
-                    <img src="/imagens/logo.png" alt="" />
+                    <img src="/imagens/logo.png" alt="Logo da alura" />
                 </div>
                 <div className="texto">
                     <small>Desenvolvido por Alura</small>
