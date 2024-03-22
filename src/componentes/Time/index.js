@@ -15,15 +15,14 @@ const Time = (props) => {
                 </h3>
                 <div className="colaboradores">
                     {props.colaboradores.map((colaborador) => (
-                        <div key={colaborador.nome}>
-                            <Colaborador
-                                nome={colaborador.nome}
-                                time={colaborador.time}
-                                cargo={colaborador.cargo}
-                                imagem={colaborador.imagem}
-                                corPrimaria={props.corPrimaria}
-                            />
-                        </div>
+                        <Colaborador
+                            key={colaborador.nome}
+                            nome={colaborador.nome}
+                            time={colaborador.time}
+                            cargo={colaborador.cargo}
+                            imagem={colaborador.imagem}
+                            corPrimaria={props.corPrimaria}
+                        />
                     ))}
                 </div>
             </section>

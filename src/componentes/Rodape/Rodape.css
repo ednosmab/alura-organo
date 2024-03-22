@@ -1,0 +1,60 @@
+footer.rodape {
+    width: 100%;
+    background: url("../../../public/imagens/fundo.png");
+    background-repeat: no-repeat;
+    background-size: 100%;
+    background-color: var(--background-banner);
+    margin-top: 20rem;
+}
+
+.rodape address {
+    height: 20rem;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    justify-content: space-around;
+    align-items: center;
+}
+.rodape ul {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    justify-content: space-around;
+}
+.rodape li {
+    list-style-type: none;
+}
+
+.rodape a::before {
+    display: block;
+}
+
+.icon-fb::before,
+.icon-ig::before,
+.icon-tw::before {
+    background-size: 4.5rem;
+    width: 4.5rem;
+    height: 4.5rem;
+}
+
+.icon-fb::before {
+    content: "";
+    background: url("../../../public/imagens/fb.png") no-repeat;
+}
+
+.icon-tw::before {
+    content: url("../../../public/imagens/tw.png");
+}
+.icon-ig::before {
+    content: url("../../../public/imagens/ig.png");
+}
+
+.rodape .logo {
+    text-align: center;
+}
+
+.rodape .texto {
+    text-align: center;
+    font-style: normal;
+    font-size: 2rem;
+    color: var(--branco);
+}
