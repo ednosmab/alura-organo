@@ -1,7 +1,7 @@
 ![image](https://github.com/ednosmab/alura-organo/assets/37445442/eff9f84b-04f7-4157-8dc7-32bcb222554d)
 
 <h1 align="center">Organo </h1>
-<p align="center">📚 Projeto desenvolvido no curso HTML e CSS: Praticando HTML/CSS da Alura 📚</p>
+<p align="center">📚 Projeto desenvolvido no curso React: desenvolvendo com JavaScript da Alura 📚</p>
 
 <div align="center">
 
