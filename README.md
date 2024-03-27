@@ -3,7 +3,29 @@
 <h1 align="center">Organo </h1>
 <p align="center">📚 Projeto desenvolvido no curso HTML e CSS: Praticando HTML/CSS da Alura 📚</p>
 
-# 🏗️ Em construção 🏗️
+<div align="center">
+
+  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 	![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Static Badge](https://img.shields.io/badge/date%20published-march%2024-blue) ![Static Badge](https://img.shields.io/badge/release-1.0-brightgreen) 
+
+</div>
+
+# 🧰 Técnologias Utilizadas
+- ``HTML 5``
+- ``CSS 3``
+  - ``Template grid``
+  - ``Flexbox``
+- ``Javascript``
+- ``React.js``
+- ``VS Code``
+- ``Git``
+- ``Vercel``
+- ``Figma``
+
+# 🎨 Arte do projeto
+<p><a href="https://www.figma.com/file/VsD7Al7j82JYfLS4cafxrv/Projeto-Intro-ao-React-(Copy)?type=design&node-id=134%3A128&mode=design&t=9yvad97Wba6GDS1y-1">Figma</a></p>
+
+# 🌎 Veja como ficou
+<p><a href="https://alura-organo-pi.vercel.app/">Organo</a></p>
 
 # Getting Started with Create React App
 
